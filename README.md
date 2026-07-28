@@ -1,2 +1,5 @@
-# github_258_tracker
-Issue tracker for github_258 onboarding task
+# Onboarding Issue Tracker
+
+This repository tracks onboarding activities.
+
+Each new team member creates an issue here after completing the required repository fork.
